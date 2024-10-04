@@ -82,7 +82,7 @@ var randomItem = selectRandomItem(items);
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴠᴀᴊɪʀᴀ-ᴍᴅ",
+title: "HANSAMAL-MD",
 thumbnailUrl: "https://telegra.ph/file/e069027c2178e2c7475c9.jpg",
 sourceUrl: "https://www.whatsapp.com/channel/0029VajrLTH30LKXN5O5Zj04",
 mediaType: 1,
